@@ -1,3 +1,7 @@
 /scihub/
 .idea/
-scihub_cn/.idea/
+scihub_cn/.idea/# macOS system files
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
